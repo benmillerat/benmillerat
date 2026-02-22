@@ -14,6 +14,8 @@ Former Technology Journalist and in Tech PR for Apple, Qualcomm, Accenture (AI),
 
 ## What I'm Working On
 
+🦞 **[OpenClaw Sub-Agent Data Exchange](https://gist.github.com/benmillerat/0fc51c8d5cff41fea59505ccdca32c32)** – Filesystem-First Architecture for OpenClaw 
+
 🔧 **[productboard-cli](https://github.com/benmillerat/productboard-cli)** — The first open-source CLI for the Productboard API. 144 commands, full v1 + v2 beta coverage. Built because product managers deserve better tooling.
 
 🔌 **[productboard-mcpb](https://github.com/benmillerat/productboard-mcpb)** — One-click Productboard connector for Claude Desktop. Double-click install, no terminal needed.
