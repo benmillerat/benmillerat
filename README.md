@@ -6,8 +6,8 @@ Former Technology Journalist and in Tech PR for Apple, Qualcomm, Accenture (AI),
 
 ## Interests
 
-- **AI Agents & Automation** — Running [🦞 OpenClaw](https://github.com/openclaw) in production, building skills and integrations
-- **CLIs & Developer Tools** — Making APIs usable for humans
+- **AI Agents & Automation** – Running [🦞 OpenClaw](https://github.com/openclaw) in production, building skills and integrations
+- **CLIs & Developer Tools** – Making APIs usable for humans
 - **3D Printing** — Shaping ideas and turning them into matter; designing functional parts in Fusion 360. Check it out on [Printables](https://www.printables.com/@bensen) and [Makerworld](https://makerworld.com/en/@bensen).
 - **Homelab** — Proxmox cluster, self-hosted infrastructure
 - **Open Source** — Because the best tools are the ones everyone can use
