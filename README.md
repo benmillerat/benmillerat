@@ -2,7 +2,7 @@
 
 I conquer problems with bits and turn ideas into tools that help make complex software more accessible to everyone.
 
-Former Technology Journalist and in Tech PR Communicator, turning Agentic Engineer, developing AI agent integrations, and open-source tools straight outta Munich.
+Former Technology Journalist and in Tech PR for Apple, Qualcomm, Accenture (AI), Nothing, Nikon; now aspiring Agentic Engineer, developing AI agent integrations, and open-source tools straight outta Munich.
 
 ## What I'm Working On
 
