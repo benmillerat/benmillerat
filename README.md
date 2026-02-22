@@ -28,4 +28,4 @@ Along the way I realized the tools I wished existed... didn't. So I started buil
 
 ## Links
 
-🌐 [benmiller.at](https://www.benmiller.at) · 𝕏 [X](https://x.com/bensen) · 🦋 [Bluesky](https://bsky.app/profile/benm.at) · 🐘 [Mastodon](https://mastodon.social/@bensen) · 💼 [LinkedIn](https://www.linkedin.com/in/benmillerat/)
+🌐 [benmiller.at](https://www.benmiller.at) · 𝕏 [Twitter](https://x.com/bensen) · 🦋 [Bluesky](https://bsky.app/profile/benm.at) · 🐘 [Mastodon](https://mastodon.social/@bensen) · 💼 [LinkedIn](https://www.linkedin.com/in/benmillerat/)
