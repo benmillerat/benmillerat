@@ -22,7 +22,7 @@ Former Technology Journalist and in Tech PR for Apple, Qualcomm, Accenture (AI),
 
 ## Background
 
-I spent a decade in tech journalism, switched side to tech communications, from running one of the largest Apple blogs in the German-speaking world to helping launch Apple Silicon and Apple TV+ in the DACH market, then Qualcomm Compute in DACH at Burson.
+I spent a decade in tech journalism, moved on to tech communications, from running one of the largest Apple blogs in the German-speaking world to helping Apple PR Germany launch Apple Silicon and Apple TV+ in the DACH market, then Qualcomm Compute and Accenture in DACH at Burson.
 
 Along the way I realized the tools I wished existed... didn't. So I started building them.
 
