@@ -1,6 +1,6 @@
 # Hey, I'm Ben 👋
 
-I tackle problems with bits and turn ideas into tools that help make complex software more accessible to everyone.
+I tackle problems with bits and turn ideas into tools that help make complex software more accessible.
 
 Former Technology Journalist and in Tech PR for Apple, Qualcomm, Accenture (AI), Nothing, Nikon; now aspiring Agentic Engineer, developing AI agent integrations, and open-source tools straight outta Munich.
 
