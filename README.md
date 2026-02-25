@@ -14,6 +14,8 @@ Former Technology Journalist and in Tech PR for Apple, Qualcomm, Accenture (AI),
 
 ## What I'm Working On
 
+🎬 **[openclaw-youtube-archiver](https://github.com/benmillerat/openclaw-youtube-archiver)** — OpenClaw skill that archives YouTube playlists as markdown notes with AI summaries, transcripts, and auto-tags. Multi-provider (OpenAI, Gemini, Anthropic, Ollama), works without any API keys. [Available on ClawHub](https://clawhub.com).
+
 🦞 **[OpenClaw Sub-Agent Data Exchange](https://gist.github.com/benmillerat/0fc51c8d5cff41fea59505ccdca32c32)** – Filesystem-First Sub-Agent Data Exchange Architecture for OpenClaw 
 
 🔧 **[productboard-cli](https://github.com/benmillerat/productboard-cli)** — The first open-source CLI for the Productboard API. 144 commands, full v1 + v2 beta coverage. Built because product managers deserve better tooling.
