@@ -18,6 +18,8 @@ Former Technology Journalist and in Tech PR for Apple, Qualcomm, Accenture (AI),
 
 🎬 **[openclaw-youtube-archiver](https://github.com/benmillerat/openclaw-youtube-archiver)** — OpenClaw skill that archives YouTube playlists as markdown notes with AI summaries, transcripts, and auto-tags. Multi-provider (OpenAI, Gemini, Anthropic, Ollama), works without any API keys. [Available on ClawHub](https://clawhub.com).
 
+🛒 **[supermarket-deals](https://github.com/benmillerat/supermarket-deals)** — OpenClaw skill that tracks product deals at German supermarkets (Aldi, Lidl, REWE, EDEKA, Kaufland) via Marktguru. Results ranked by best price per litre (EUR/L), weekly cron notifications via Telegram or iMessage. [Available on ClawHub](https://clawhub.com/skills/benmillerat/supermarket-deals).
+
 🔧 **[productboard-cli](https://github.com/benmillerat/productboard-cli)** — The first open-source CLI for the Productboard API. 144 commands, full v1 + v2 beta coverage. Built because product managers deserve better tooling.
 
 🔌 **[productboard-mcpb](https://github.com/benmillerat/productboard-mcpb)** — One-click Productboard connector for Claude Desktop. Double-click install, no terminal needed.
