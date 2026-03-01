@@ -16,9 +16,9 @@ Former Technology Journalist and in Tech PR for Apple, Qualcomm, Accenture (AI),
 
 🦞 **[OpenClaw Sub-Agent Data Exchange](https://gist.github.com/benmillerat/0fc51c8d5cff41fea59505ccdca32c32)** – Filesystem-First Sub-Agent Data Exchange Architecture for OpenClaw 
 
-🎬 **[openclaw-youtube-archiver](https://github.com/benmillerat/openclaw-youtube-archiver)** — OpenClaw skill that archives YouTube playlists as markdown notes with AI summaries, transcripts, and auto-tags. Multi-provider (OpenAI, Gemini, Anthropic, Ollama), works without any API keys. [Available on ClawHub](https://clawhub.ai).
+🎬 **[openclaw-youtube-archiver](https://github.com/benmillerat/openclaw-youtube-archiver)** — [🦞 OpenClaw](https://github.com/openclaw) skill that archives YouTube playlists as markdown notes with AI summaries, transcripts, and auto-tags. Multi-provider (OpenAI, Gemini, Anthropic, Ollama), works without any API keys. [Available on ClawHub](https://clawhub.ai).
 
-🛒 **[supermarket-deals](https://github.com/benmillerat/openclaw-supermarket-deals)** — OpenClaw skill that tracks product deals at German supermarkets (Aldi, Lidl, REWE, EDEKA, Kaufland) via Marktguru. Results ranked by best price per litre (EUR/L), weekly cron notifications via Telegram or iMessage. [Available on ClawHub](https://clawhub.ai/benmillerat/supermarket-deals).
+🛒 **[openclaw-supermarket-deals](https://github.com/benmillerat/openclaw-supermarket-deals)** — [🦞 OpenClaw](https://github.com/openclaw) skill that tracks product deals at German supermarkets (Aldi, Lidl, REWE, EDEKA, Kaufland) via Marktguru. Results ranked by best price per litre (EUR/L), weekly cron notifications via Telegram or iMessage. [Available on ClawHub](https://clawhub.ai/benmillerat/supermarket-deals).
 
 🔧 **[productboard-cli](https://github.com/benmillerat/productboard-cli)** — The first open-source CLI for the Productboard API. 144 commands, full v1 + v2 beta coverage. Built because product managers deserve better tooling.
 
