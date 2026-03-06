@@ -22,6 +22,8 @@ Former Technology Journalist and in Tech PR for Apple, Qualcomm, Accenture (AI),
 
 🔧 **[productboard-cli](https://github.com/benmillerat/productboard-cli)** — The first open-source CLI for the Productboard API. 144 commands, full v1 + v2 beta coverage. Built because product managers deserve better tooling.
 
+🔖 **[x-bookmark-archiver](https://github.com/benmillerat/openclaw-x-bookmark-archiver)** — OpenClaw skill that turns X/Twitter bookmarks into enriched Markdown notes with AI summaries, smart tagging, and article extraction.
+
 🔌 **[productboard-mcpb](https://github.com/benmillerat/productboard-mcpb)** — One-click Productboard connector for Claude Desktop. Double-click install, no terminal needed.
 
 💡 **[ideaflow](https://github.com/benmillerat/ideaflow)** — Lightweight idea management for [🦞 OpenClaw](https://github.com/openclaw) agents. Capture ideas from spark to shipped.
