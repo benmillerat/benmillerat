@@ -16,6 +16,8 @@ Former Technology Journalist and in Tech PR for Apple, Qualcomm, Accenture (AI),
 
 🦞 **[OpenClaw Sub-Agent Data Exchange](https://gist.github.com/benmillerat/0fc51c8d5cff41fea59505ccdca32c32)** – Filesystem-First Sub-Agent Data Exchange Architecture for OpenClaw 
 
+📝 **[openclaw-doc2md](https://github.com/benmillerat/openclaw-doc2md)** – [🦞 OpenClaw](https://github.com/openclaw) skill that converts documents to LLM-ready markdown — automatically triggered when you send any file attachment to your agent via Telegram.
+
 𝕏 **[openclaw-x-bookmark-archiver](https://github.com/benmillerat/openclaw-x-bookmark-archiver)** – [🦞 OpenClaw](https://github.com/openclaw) skill that turns X/Twitter bookmarks into enriched Markdown notes with AI summaries, smart tagging, and article extraction.
 
 🎬 **[openclaw-youtube-archiver](https://github.com/benmillerat/openclaw-youtube-archiver)** – [🦞 OpenClaw](https://github.com/openclaw) skill that archives YouTube playlists as markdown notes with AI summaries, transcripts, and auto-tags. Multi-provider (OpenAI, Gemini, Anthropic, Ollama), works without any API keys. [Available on ClawHub](https://clawhub.ai).
